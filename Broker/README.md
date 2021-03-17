@@ -30,7 +30,7 @@
 ![image](https://user-images.githubusercontent.com/42265090/111497724-5ad19d00-8767-11eb-827b-ab4e54ef2d49.png)
 
 
-- All broker configurations can be found here --> 
+- All broker configurations can be found here --> https://github.com/saritago/UseCase/tree/main/Broker/config 
 
 
 
