@@ -14,5 +14,6 @@ Cruise Control for Apache Kafka
   
   Status when the cluster has 2 nodes:
   
-  ![image](https://user-images.githubusercontent.com/42265090/111489467-28707180-8760-11eb-99cb-0d0f93b9a05a.png)
+  ![image](https://user-images.githubusercontent.com/42265090/111489891-9157e980-8760-11eb-85a8-4c664537e298.png)
+
 
