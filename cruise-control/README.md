@@ -13,5 +13,6 @@ Cruise Control for Apache Kafka
   Illustaration of cluster rebalancing using cruisecontrol where 3 new nodes have been added to the cluster.
   
   Status when the cluster has 2 nodes:
+  
   ![image](https://user-images.githubusercontent.com/42265090/111489467-28707180-8760-11eb-99cb-0d0f93b9a05a.png)
 
