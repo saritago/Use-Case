@@ -1,0 +1,4 @@
+kafka-cruise-control-start.sh: 12: [[: not found
+kafka-cruise-control-start.sh: 23: Syntax error: "(" unexpected (expecting "}")
+kafka-cruise-control-start.sh: 12: [[: not found
+kafka-cruise-control-start.sh: 23: Syntax error: "(" unexpected (expecting "}")
